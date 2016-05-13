@@ -1,7 +1,7 @@
 # Kali linux tutorials
 <h3>Network Penetration Testing Tutorials:</h3>
 
-        0. link playlist (https://www.youtube.com/playlist?list=PLQR-QyZ9j-CWDpeIbOx_xtpsdvNqihQUi)
+        0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CWDpeIbOx_xtpsdvNqihQUi
         1. [FUD] Trojan using Veil-Framework
         2. Escalate privileges using Chrome (BUG or Feature?)
         4. Windows hide shell (attrib +s +h)
@@ -10,7 +10,7 @@
 
 <h3>WI-FI Penetration Test Tutorials:</h3>
 
-        0. link playlist (https://www.youtube.com/playlist?list=PLQR-QyZ9j-CVnzXBYutaBMe507lkQ1Pwa)
+        0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CVnzXBYutaBMe507lkQ1Pwa
         1. Upgrade your Kali Linux WI-FI adapter
         2. External ip and port forwarding2
         3. WI-FI attacks part 1 (WPS Pixie dust)
@@ -20,7 +20,7 @@
 
 <h3>Kali Linux step by step:</h3>
 
-        0. link playlist (https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7)
+        0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7
         1. Install Kali Linux, Rolling Edition Released – 2016 1 
         2. Desktop Customization Kali Linux
         3. Install Conky, Kali Linux 2016 1

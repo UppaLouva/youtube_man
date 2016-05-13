@@ -33,7 +33,8 @@
 <h3>Penetration Testing with Python:</h3>
         
         0. link playlist (test)
-        This is [an example](http://www.example.com/) inline link.
+        This is [an example](https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7) inline link.
+        [This link](https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7"Title") has a title attribute.
         
         
 <blockquote>

@@ -33,6 +33,7 @@
 <h3>Penetration Testing with Python:</h3>
         
         0. link playlist (test)
+        This is [an example](http://www.example.com/) inline link.
         
         
 <blockquote>

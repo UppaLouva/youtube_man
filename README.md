@@ -1,5 +1,5 @@
 # Kali linux tutorials
-<h3>Network Penetration Testing Tutorials:</h3>
+##Network Penetration Testing Tutorials:
 
         0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CWDpeIbOx_xtpsdvNqihQUi
         1. [FUD] Trojan using Veil-Framework
@@ -8,7 +8,7 @@
         5. Cover your tracks part 1 (socat)
         6. Cover your tracks part 2 (ssh tunnel)
 
-<h3>WI-FI Penetration Test Tutorials:</h3>
+##WI-FI Penetration Test Tutorials:
 
         0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CVnzXBYutaBMe507lkQ1Pwa
         1. Upgrade your Kali Linux WI-FI adapter
@@ -18,7 +18,7 @@
         5. WI-FI attacks part 2 (crack handshake)
         6. WI-FI attacks part 3 (Phishing) 
 
-<h3>Kali Linux step by step:</h3>
+##Kali Linux step by step:
 
         0. link playlist https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7
         1. Install Kali Linux, Rolling Edition Released – 2016 1 
@@ -26,15 +26,13 @@
         3. Install Conky, Kali Linux 2016 1
         4. Install Chrome Kali Linux 2016 1
  
- <h3>Web Application Penetration Test Tutorials:</h3>
+##Web Application Penetration Test Tutorials:
         
         0. link playlist (test)
         
-<h3>Penetration Testing with Python:</h3>
+##Penetration Testing with Python:
         
         0. link playlist (test)
-        This is [an example](https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7) inline link.
-        [This link](https://www.youtube.com/playlist?list=PLQR-QyZ9j-CXKElFWRoTTtX3-ZN0_HdH7"Title") has a title attribute.
         
         
 <blockquote>
